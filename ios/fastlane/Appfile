@@ -1,0 +1,8 @@
+app_identifier("com.fvisticot.mood") # The bundle identifier of your app
+apple_id("fvisticot@gmail.com") # Your Apple email address
+
+itc_team_id("205561") # App Store Connect Team ID
+team_id("L48658WX5S") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

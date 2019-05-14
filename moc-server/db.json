@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "pictureUrl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "fred",
+      "lastName": "Visticot",
+      "mood": "happy",
+      "location": {
+        "lon": 44.658,
+        "lat": -1.155729
+      }
+    },
+    {
+      "id": 2,
+      "pictureUrl": "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_960_720.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "tom",
+      "lastName": "Visticot",
+      "mood": "sad",
+      "location": {
+        "lon": 4.3,
+        "lat": 1.2
+      }
+    },
+    {
+      "id": 3,
+      "pictureUrl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "lily",
+      "lastName": "Visticot",
+      "mood": "superhappy",
+      "location": {
+        "lon": 4.3,
+        "lat": 1.2
+      }
+    },
+    {
+      "id": 4,
+      "pictureUrl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "john",
+      "lastName": "Visticot",
+      "mood": "superhappy",
+      "location": {
+        "lon": 4.3,
+        "lat": 1.2
+      }
+    },
+    {
+      "id": 5,
+      "pictureUrl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "robert",
+      "lastName": "Visticot",
+      "mood": "superhappy",
+      "location": {
+        "lon": 4.3,
+        "lat": 1.2
+      }
+    },
+    {
+      "id": 6,
+      "pictureUrl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "alex",
+      "lastName": "Visticot",
+      "mood": "superhappy",
+      "location": {
+        "lon": 4.3,
+        "lat": 1.2
+      }
+    },
+    {
+      "id": 7,
+      "pictureUrl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "email": "fvisticot@gmail.com",
+      "firstName": "tony",
+      "lastName": "Visticot",
+      "mood": "superhappy",
+      "location": {
+        "lon": 4.3,
+        "lat": 1.2
+      }
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 8
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 9
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 10
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 11
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 12
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 13
+    },
+    {
+      "firstName": "tata",
+      "lastName": "frit",
+      "pictureURl": "http://blogue-ton-ecole.ac-dijon.fr/wp-content/uploads/2016/07/Avatar_girl_face.png",
+      "avatarUrl": null,
+      "email": null,
+      "location": null,
+      "id": 14
+    }
+  ]
+}

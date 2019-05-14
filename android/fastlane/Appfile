@@ -1,0 +1,2 @@
+json_key_file("api-5108715839131460379-473715-97bf034fb33f.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.fvisticot.mood") # e.g. com.krausefx.app

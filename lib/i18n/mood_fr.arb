@@ -1,0 +1,15 @@
+{
+  "@@last_modified": "2018-04-04T17:58:48.420672",
+  "password": "Mot de passe",
+  "@password": {
+    "description": "Password desc",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "S'inscrire",
+  "@register": {
+    "description": "Register desc",
+    "type": "text",
+    "placeholders": {}
+  }
+}

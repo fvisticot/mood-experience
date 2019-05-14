@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "195675648295",
+    "firebase_url": "https://mood-b809a.firebaseio.com",
+    "project_id": "mood-b809a",
+    "storage_bucket": "mood-b809a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195675648295:android:a3ba8a7a9dd34c91",
+        "android_client_info": {
+          "package_name": "com.fvisticot.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195675648295-mdbb7vsfgdmcjbre730anuidp7i7lv86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsx2BAsaZWCjewMEMbgs28KK73T9ttUa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
